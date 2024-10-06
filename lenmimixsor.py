@@ -1,4 +1,4 @@
-'''#Len() Min() Max() Soretd()
+#Len() Min() Max() Soretd()
 
 l=[1,2,3,4,5,6,7,8,9,10]
 print(len(l))
